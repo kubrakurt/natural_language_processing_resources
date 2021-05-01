@@ -37,6 +37,7 @@
     * Contains
     
 * ## [Görselleştirme](https://github.com/kubrakurt/natural_language_processing_resource/tree/main/Görselleştirme)
+  * [Kelime Bulutu (WordCloud)](https://github.com/kubrakurt/natural_language_processing_resource/blob/main/Görselleştirme/WordCloud.ipynb)
   * [Metin Görselleştirme](https://github.com/kubrakurt/natural_language_processing_resource/blob/main/Görselleştirme/Metin%20Görselleştirme.ipynb)
     * Ön İşlemler
       * Büyük/Küçük Harf Dönüşümü
