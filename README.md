@@ -2,3 +2,20 @@
 
 * ## [Ön İşlemler](https://github.com/kubrakurt/natural_language_processing_resource/tree/main/Ön%20İşlemler)
   * [Kelime Saymak](https://github.com/kubrakurt/natural_language_processing_resource/blob/main/Ön%20İşlemler/Kelime%20Saymak.ipynb)
+  * [Temel String İşlemleri](https://github.com/kubrakurt/natural_language_processing_resource/blob/main/Ön%20İşlemler/Temel%20String%20İşlemleri.ipynb)
+    * Oluşturma ve Biçimlendirme
+    * Dizi İçin Tip Sorgulamaları
+    * Elemanlarına ve Eleman İndekslerine Erişmek
+    * Başlangıç ve Bitiş Karakterlerini Sorgulama
+    * Eleman Saydırma
+    * Karakterleri Bölme
+    * Büyük Küçük Harf İşlemleri
+    * İstenmeyen Karakterleri Kırpmak
+    * Bölünmüş ya da Ayrık İfadelerin Birleştirilmesi
+    * Eleman Değiştirme
+    * Harf Düzeltmeleri
+    * Contains
+
+## Kaynaklar
+
+* [Python ile Makine Öğrenmesi](https://www.udemy.com/course/python-ile-makine-ogrenmesi/)
