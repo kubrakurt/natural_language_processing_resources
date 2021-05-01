@@ -48,6 +48,21 @@
       * Lemmatize
       * 3000'den Fazla Geçen Kelimelerin Görselleştirilmesi
 
+* ## [Modeller](https://github.com/kubrakurt/natural_language_processing_resource/tree/main/Model)
+  * [Metin Sınıflandırma Modeli](https://github.com/kubrakurt/natural_language_processing_resource/blob/main/Model/Metin%20Sınıflandırma%20Modeli.ipynb)
+    * Ön İşleme
+    * Değişken Mühendisliği
+      * Train & Test
+      * Count Vectors
+      * TD-IDF
+      * N-GRAM Level TF-IDF
+      * Characters Level TF-IDF
+    * Makine Öğrenmesi ile Sentiment Sınıflandırması
+      * Lojistik Regresyon
+      * Naive Bayes
+      * Random Forests
+      * XGBoost
+  
 ## Kaynaklar
 
 * [Python ile Makine Öğrenmesi](https://www.udemy.com/course/python-ile-makine-ogrenmesi/)
