@@ -35,6 +35,17 @@
     * Eleman Değiştirme
     * Harf Düzeltmeleri
     * Contains
+    
+* ## [Görselleştirme](https://github.com/kubrakurt/natural_language_processing_resource/tree/main/Görselleştirme)
+  * [Metin Görselleştirme](https://github.com/kubrakurt/natural_language_processing_resource/blob/main/Görselleştirme/Metin%20Görselleştirme.ipynb)
+    * Ön İşlemler
+      * Büyük/Küçük Harf Dönüşümü
+      * Noktalama İşaretlerinin Kaldırılması
+      * Sayıların Kaldırılması
+      * Stopwords Kaldırılması
+      * Seyrek İfadelerin Silinmesi
+      * Lemmatize
+      * 3000'den Fazla Geçen Kelimelerin Görselleştirilmesi
 
 ## Kaynaklar
 
