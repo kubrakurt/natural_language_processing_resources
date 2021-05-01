@@ -7,6 +7,11 @@
     * Chunking (Shallow Parsing)
     * Named Entity Recognition
   * [Kelime Saymak](https://github.com/kubrakurt/natural_language_processing_resource/blob/main/Ön%20İşlemler/Kelime%20Saymak.ipynb)
+  * [Matematiksel İşlemler ve Basit Özellik Çıkarımı](https://github.com/kubrakurt/natural_language_processing_resource/blob/main/Ön%20İşlemler/Matematiksel%20İşlemler%20ve%20Basit%20Özellik%20Çıkarımı.ipynb)
+    * Harf/Karakter Sayısı
+    * Kelime Sayısı
+    * Özel Karakterleri ve Sayıları Yakalamak
+    * Sayıları Yakalamak ve Saydırmak
   * [Metin Ön İşleme](https://github.com/kubrakurt/natural_language_processing_resource/blob/main/Ön%20İşlemler/Metin%20Ön%20İşleme.ipynb)
     * Metinlerin Vektörlere Dönüştürülmesi
     * Büyük/Küçük Harf
