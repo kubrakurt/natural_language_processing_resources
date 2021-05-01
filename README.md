@@ -1,6 +1,11 @@
 <h1 align="center"> Doğal Dil İşleme </h1>
 
 * ## [Ön İşlemler](https://github.com/kubrakurt/natural_language_processing_resource/tree/main/Ön%20İşlemler)
+  * [Basit Uygulamalar](https://github.com/kubrakurt/natural_language_processing_resource/blob/main/Ön%20İşlemler/Basit%20Uygulamalar.ipynb)
+    * N-Gram
+    * Part of Speech Tagging (POS)
+    * Chunking (Shallow Parsing)
+    * Named Entity Recognition
   * [Kelime Saymak](https://github.com/kubrakurt/natural_language_processing_resource/blob/main/Ön%20İşlemler/Kelime%20Saymak.ipynb)
   * [Metin Ön İşleme](https://github.com/kubrakurt/natural_language_processing_resource/blob/main/Ön%20İşlemler/Metin%20Ön%20İşleme.ipynb)
     * Metinlerin Vektörlere Dönüştürülmesi
