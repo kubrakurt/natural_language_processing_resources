@@ -1,5 +1,14 @@
 <h1 align="center"> Doğal Dil İşleme </h1>
 
+* ##[Kütüphaneler](https://github.com/kubrakurt/natural_language_processing_resources/tree/main/Kütüphaneler)
+  * [TurkishNLP](https://github.com/kubrakurt/natural_language_processing_resources/blob/main/Kütüphaneler/TurkishNLP.ipynb)
+    * Türkçe Dil Tespiti
+    * Yazım Hatası Düzeltme
+    * Hecelere Ayırmak
+    * Büyük Ünlü Uyumu
+    * Türkçe Köken Kontrolü
+    * Boşluksuz Yazılan Yazıyı Düzeltme
+
 * ## [Ön İşlemler](https://github.com/kubrakurt/natural_language_processing_resource/tree/main/Ön%20İşlemler)
   * [Basit Uygulamalar](https://github.com/kubrakurt/natural_language_processing_resource/blob/main/Ön%20İşlemler/Basit%20Uygulamalar.ipynb)
     * N-Gram
@@ -66,3 +75,4 @@
 ## Kaynaklar
 
 * [Python ile Makine Öğrenmesi](https://www.udemy.com/course/python-ile-makine-ogrenmesi/)
+* [TurkishNLP](https://pypi.org/project/turkishnlp/)
