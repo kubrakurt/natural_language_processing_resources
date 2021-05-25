@@ -1,6 +1,6 @@
 <h1 align="center"> Doğal Dil İşleme </h1>
 
-* ##[Kütüphaneler](https://github.com/kubrakurt/natural_language_processing_resources/tree/main/Kütüphaneler)
+* ## [Kütüphaneler](https://github.com/kubrakurt/natural_language_processing_resources/tree/main/Kütüphaneler)
   * [TurkishNLP](https://github.com/kubrakurt/natural_language_processing_resources/blob/main/Kütüphaneler/TurkishNLP.ipynb)
     * Türkçe Dil Tespiti
     * Yazım Hatası Düzeltme
