@@ -1,6 +1,6 @@
 <h1 align="center"> Doğal Dil İşleme </h1>
 
-<p align="left"> <img src="https://blog.csml.dev/content/images/2020/10/saymyname-1.gif" /> </p>
+<p align="center"> <img src="https://blog.csml.dev/content/images/2020/10/saymyname-1.gif" /> </p>
 
 * ## [Kütüphaneler](https://github.com/kubrakurt/natural_language_processing_resources/tree/main/Kütüphaneler)
   * [TurkishNLP](https://github.com/kubrakurt/natural_language_processing_resources/blob/main/Kütüphaneler/TurkishNLP.ipynb)
